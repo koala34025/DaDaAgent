@@ -1,5 +1,6 @@
 # DaDaAgent
 https://dadaagent-2a296.firebaseapp.com/
+intro video: https://youtu.be/xILZy88Ibgs
 
 ## 遊戲流程
 1. 開頭動畫 - Press Enter
